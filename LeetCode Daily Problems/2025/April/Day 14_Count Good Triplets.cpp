@@ -1,5 +1,5 @@
 // 1534. Count Good Triplets
-// Link: https://leetcode.com/problems/count-good-triplets/
+// Link: https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14
 
 class Solution {
     public:
